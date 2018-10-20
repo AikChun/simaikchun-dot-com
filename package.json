@@ -1,0 +1,10 @@
+{
+  "name": "simaikchun",
+  "version": "1.0.0",
+  "description": "My own personal website",
+  "main": "index.js",
+  "repository": "git@github.com:AikChun/simaikchun-dot-com.git",
+  "author": "iam@simaikchun.com",
+  "license": "MIT",
+  "private": true
+}
